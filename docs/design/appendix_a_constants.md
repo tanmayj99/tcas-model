@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **DO-185B reference** | Vol. II, Appendix A, pp. A-1 to A-6 |
-| **Status** | Ready |
+| **Status** | Implemented |
 | **Target module** | `tcas_model/config/constants.py` |
 | **Test module** | `tests/test_constants.py` |
 | **Depends on** | Nothing |
